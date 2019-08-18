@@ -7,9 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### about this experiment
 I was attempting to use an API of any sort to get the html to give me back text into audio/speech.  
 NOTHING worked until I found this link:
-[Link](http://cr.kungfoo.net/speech/immediately-speak.html)
+[kungfoo.net](http://cr.kungfoo.net/speech/immediately-speak.html)
 
 Here's the home to the link, explaining Google chrome blocks this API.
-[Link](https://www.ghacks.net/2018/11/21/google-chrome-blocking-speech-synthesis-api-audio-autoplay/)
+[ghacks.net-google-chrome-blocking-speech](https://www.ghacks.net/2018/11/21/google-chrome-blocking-speech-synthesis-api-audio-autoplay/)
 
 
