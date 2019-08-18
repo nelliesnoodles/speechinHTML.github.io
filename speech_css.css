@@ -1,0 +1,14 @@
+﻿body
+{
+    margin: 0;
+    padding: 0;
+    background-color: lightcyan;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+main {
+    color: midnightblue;
+    text-shadow: 1px 2px 3px white;
+}
