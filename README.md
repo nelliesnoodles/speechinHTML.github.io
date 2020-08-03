@@ -1,11 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nelliesnoodles/speechinHTML.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Adding a text to audio speech with JavaScript
 
 ### about this experiment
-I was attempting to use an API of any sort to get the html to give me back text into audio/speech.  
+I was attempting to use an (any!) API to get the html to give me back text into audio/speech.  
 NOTHING worked until I found this link:
 [kungfoo.net](http://cr.kungfoo.net/speech/immediately-speak.html)
 
