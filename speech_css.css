@@ -1,17 +1,43 @@
 ﻿body
 {
-    margin: 0;
-    padding: 0;
-    background-color: lightcyan;
-    font-family: 'Times New Roman';
-    font-weight: bold;
-    color: darkslateblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  background-color: lightcyan;
+  font-family: 'Times New Roman';
+  font-weight: bold;
+  color: darkslateblue;
 }
 
 main {
-    background-color: blanchedalmond;
-    text-align: center;
-    justify-content: center;
-    color: black;
-    text-shadow: 1px 2px 3px white;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f3f7d9;
+  text-align: center;
+  justify-content: center;
+  color: black;
+  text-shadow: 1px 2px 3px white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  flex-direction: column;
+  background: white;
+  border-bottom: 1px solid silver;
+  margin-bottom: 2vh;
+
+}
+
+button {
+  background-color: orange;
+  color: white;
+  border-radius: 10%;
+  padding: 1ch;
+  margin: 10px;
 }
